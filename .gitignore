@@ -1,0 +1,3 @@
+# JSONL の原本はローカルに保持し、gzip 圧縮版を登録する。
+/future/**/*.jsonl
+/op/**/*.jsonl
