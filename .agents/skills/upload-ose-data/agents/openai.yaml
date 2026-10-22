@@ -1,0 +1,4 @@
+interface:
+  display_name: "取引データのアップロード"
+  short_description: "先物・オプションデータを圧縮・照合して GitHub に反映する"
+  default_prompt: "$upload-ose-data を使って、このリポジトリのデータを GitHub にアップロードして。"
