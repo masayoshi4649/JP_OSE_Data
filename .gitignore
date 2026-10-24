@@ -1,3 +1,6 @@
 # JSONL の原本はローカルに保持し、gzip 圧縮版を登録する。
 /future/**/*.jsonl
 /op/**/*.jsonl
+
+# 取得ツールの途中データと実行記録。
+/.fetchdata/
